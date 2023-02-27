@@ -11,6 +11,7 @@
 * [Tests](#Tests)
 * [Contact](#Contact)
 * [Deployment](#Deployment)
+* [Screenshots](#Screenshots)
 
 <a name="Description"></a>
 ## Description
@@ -44,3 +45,10 @@ none
 <a name="Deployment"></a>
 # Link to Deployed Page
 https://emily-text-editor.herokuapp.com/
+
+<a name="Screenshots"></a>
+# Screenshots
+
+<img width="1194" alt="Screen Shot 2023-02-27 at 9 51 54 AM" src="https://user-images.githubusercontent.com/32778860/221644382-653df0d8-e5ec-46ac-a28d-3d5bd125a92d.png">
+<img width="1188" alt="Screen Shot 2023-02-27 at 9 52 59 AM" src="https://user-images.githubusercontent.com/32778860/221644402-0ea463c6-e022-45b3-8d3d-1901b1750145.png">
+<img width="580" alt="Screen Shot 2023-02-27 at 9 53 27 AM" src="https://user-images.githubusercontent.com/32778860/221644421-7e5da4cb-e364-4844-b05e-c62d0ea0ac0d.png">
